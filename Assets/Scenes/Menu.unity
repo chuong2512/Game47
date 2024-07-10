@@ -259,6 +259,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PanelPurchase
       objectReference: {fileID: 0}
+    - target: {fileID: 8031432048777736216, guid: 665b17638f11b744aaa66153ad6c6933, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8031432048777736219, guid: 665b17638f11b744aaa66153ad6c6933, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -694,7 +698,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 1067}
+  m_AnchoredPosition: {x: 0, y: 220}
   m_SizeDelta: {x: 1624.2479, y: 347.2077}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &686656766
